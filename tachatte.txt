@@ -1,2 +1,6 @@
 lachattedetamère
+<<<<<<< HEAD
 modif
+=======
+c'est ma bitte
+>>>>>>> origin/master
